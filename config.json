@@ -1,0 +1,6 @@
+{
+  "appType" : "private",
+  "consumerKey": "6DDYYKIOSEKSVBZ2HDKDCV34IVCHDS",
+  "consumerSecret": "OWBOLV4QR7MFKAU7VPDYPJQS9QD362",
+  "privateKeyPath": "./privatekey.pem"
+}
